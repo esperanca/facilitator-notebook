@@ -16,6 +16,9 @@
  {:block/name "now",
   :block/created-at 1651866834308,
   :block/updated-at 1651866834308}
+ {:block/name "a collection of ice-breakers",
+  :block/created-at 1651866944653,
+  :block/updated-at 1651866944653}
  {:block/name "c",
   :block/created-at 1651866834308,
   :block/updated-at 1651866834308}
@@ -39,7 +42,7 @@
   :block/updated-at 1651866846432}
  {:block/name "new topic",
   :block/created-at 1651866853563,
-  :block/updated-at 1651866870829}
+  :block/updated-at 1651866938984}
  {:block/name "wait",
   :block/created-at 1651866834308,
   :block/updated-at 1651866834308}
